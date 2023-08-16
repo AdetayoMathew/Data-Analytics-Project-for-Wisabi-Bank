@@ -23,5 +23,32 @@ Wisabi Bank wants to answer several business problem questions related to its AT
 * Which ATM locations have the highest and lowest utilization rates, and what factors contribute to this utilization rate?
 *	What is the average transaction time by location, transaction type, and time of day, and how does it vary by customer type and occupation?
 
+  # Assumptions
+*	The data provided is accurate and complete.
+*	The data is stored in a relational database.
+*	The data has been cleaned and pre-processed to remove any inconsistencies or errors.
+*	The data is accessible through a secure connection.
+
+  # Transformations
+  ![Screenshot (586)](https://github.com/Mathex7/Data-Analytics-Project-for-Wisabi-Bank/assets/106633060/78c4cec6-d8d0-45c9-ba46-9d232c9923db)
+
+  ![Screenshot (587)](https://github.com/Mathex7/Data-Analytics-Project-for-Wisabi-Bank/assets/106633060/7720fbaf-e4ff-40e5-8061-90d34b883eff)
+
+  ![Screenshot (588)](https://github.com/Mathex7/Data-Analytics-Project-for-Wisabi-Bank/assets/106633060/b7102c83-72f2-4022-9636-1aad1142d110)
+
+![Screenshot (589)](https://github.com/Mathex7/Data-Analytics-Project-for-Wisabi-Bank/assets/106633060/fc964989-3fe5-49e3-84be-8f745362b9f9)
+
+![Screenshot (590)](https://github.com/Mathex7/Data-Analytics-Project-for-Wisabi-Bank/assets/106633060/0128ac0e-5a43-4e35-89d6-db5f690de4ce)
+
+![Screenshot (602)](https://github.com/Mathex7/Data-Analytics-Project-for-Wisabi-Bank/assets/106633060/dee509b1-76bd-487e-9846-b509d0e4ae47)
+
+
+
+
+
+
+
+  
+
   
 
