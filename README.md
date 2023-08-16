@@ -40,7 +40,7 @@ Wisabi Bank wants to answer several business problem questions related to its AT
 
 ![Screenshot (590)](https://github.com/Mathex7/Data-Analytics-Project-for-Wisabi-Bank/assets/106633060/0128ac0e-5a43-4e35-89d6-db5f690de4ce)
 
-![Screenshot (602)](https://github.com/Mathex7/Data-Analytics-Project-for-Wisabi-Bank/assets/106633060/dee509b1-76bd-487e-9846-b509d0e4ae47)
+
 
 
 
