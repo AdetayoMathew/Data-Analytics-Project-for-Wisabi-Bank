@@ -36,11 +36,24 @@ Wisabi Bank wants to answer several business problem questions related to its AT
 
   ![Screenshot (588)](https://github.com/Mathex7/Data-Analytics-Project-for-Wisabi-Bank/assets/106633060/b7102c83-72f2-4022-9636-1aad1142d110)
 
-![Screenshot (589)](https://github.com/Mathex7/Data-Analytics-Project-for-Wisabi-Bank/assets/106633060/fc964989-3fe5-49e3-84be-8f745362b9f9)
 
 ![Screenshot (590)](https://github.com/Mathex7/Data-Analytics-Project-for-Wisabi-Bank/assets/106633060/0128ac0e-5a43-4e35-89d6-db5f690de4ce)
 
 ![Screenshot (605)](https://github.com/Mathex7/Data-Analytics-Project-for-Wisabi-Bank/assets/106633060/46532e94-d5f9-4d87-ac7e-1df89b302643)
+
+# Data Model
+![Screenshot (607)](https://github.com/Mathex7/Data-Analytics-Project-for-Wisabi-Bank/assets/106633060/59c60c20-5f7c-40f4-acdc-18b4be20c3c7)
+
+
+# Findings
+
+![Screenshot (610)](https://github.com/Mathex7/Data-Analytics-Project-for-Wisabi-Bank/assets/106633060/9f41ffb8-f788-4864-9235-fc7f237d9cf0)
+
+![Screenshot (610)](https://github.com/Mathex7/Data-Analytics-Project-for-Wisabi-Bank/assets/106633060/26de1905-1777-41d3-b9bf-ba07d60e5ba4)
+
+
+
+
 
 
 
