@@ -45,11 +45,12 @@ Wisabi Bank wants to answer several business problem questions related to its AT
 ![Screenshot (607)](https://github.com/Mathex7/Data-Analytics-Project-for-Wisabi-Bank/assets/106633060/59c60c20-5f7c-40f4-acdc-18b4be20c3c7)
 
 
-# Findings
+# Findings/Daashboard
+![wasabi_page-0003](https://github.com/Mathex7/Data-Analytics-Project-for-Wisabi-Bank/assets/106633060/4dbb3af2-3bd4-4bf7-bae0-a0b5253df32c)
 
-![Screenshot (610)](https://github.com/Mathex7/Data-Analytics-Project-for-Wisabi-Bank/assets/106633060/9f41ffb8-f788-4864-9235-fc7f237d9cf0)
 
-![Screenshot (610)](https://github.com/Mathex7/Data-Analytics-Project-for-Wisabi-Bank/assets/106633060/26de1905-1777-41d3-b9bf-ba07d60e5ba4)
+![wasabi_page-0002](https://github.com/Mathex7/Data-Analytics-Project-for-Wisabi-Bank/assets/106633060/a2ccd863-0498-49ad-a3be-28ac91f33454)
+
 
 
 
